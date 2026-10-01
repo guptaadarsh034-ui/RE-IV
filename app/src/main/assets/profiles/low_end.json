@@ -1,0 +1,11 @@
+{
+  "name": "Snapdragon 6 Gen 1 / 8GB",
+  "resolution": "800x450",
+  "graphics_driver": "turnip",
+  "dxvk": true,
+  "box64_preset": "performance",
+  "cpu_affinity": "big_cores",
+  "fps_cap": 24,
+  "memory_limit_mb": 6144,
+  "notes": "Community-reported 15-22 fps on Complete Edition"
+}
